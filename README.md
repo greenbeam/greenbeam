@@ -25,7 +25,6 @@ focus:
   - API Testing & Automation
   - Java-based test frameworks
   - Algorithm practice (LeetCode)
-currently:  Deepening Java automation skills
 fun_fact:   Testing is not just finding bugs — it's ensuring quality 🚀
 ```
 
