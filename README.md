@@ -72,9 +72,9 @@ fun_fact:   Testing is not just finding bugs — it's ensuring quality 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=greenbeam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=greenbeam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenbeam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=greenbeam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" height="180"/>
 
 </div>
 
@@ -96,13 +96,13 @@ fun_fact:   Testing is not just finding bugs — it's ensuring quality 🚀
 
 <div align="center">
 
-[![api-training](https://github-readme-stats.vercel.app/api/pin/?username=greenbeam&repo=api-training&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/api-training)
+[![api-training](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=greenbeam&repo=api-training&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/api-training)
 &nbsp;
-[![QA_bible](https://github-readme-stats.vercel.app/api/pin/?username=greenbeam&repo=QA_bible&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/QA_bible)
+[![QA_bible](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=greenbeam&repo=QA_bible&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/QA_bible)
 
-[![LeetCodeExamples](https://github-readme-stats.vercel.app/api/pin/?username=greenbeam&repo=LeetCodeExamples&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/LeetCodeExamples)
+[![LeetCodeExamples](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=greenbeam&repo=LeetCodeExamples&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/LeetCodeExamples)
 &nbsp;
-[![bebiki](https://github-readme-stats.vercel.app/api/pin/?username=greenbeam&repo=bebiki&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/bebiki)
+[![bebiki](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=greenbeam&repo=bebiki&theme=tokyonight&hide_border=true)](https://github.com/greenbeam/bebiki)
 
 </div>
 
