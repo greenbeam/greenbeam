@@ -80,7 +80,7 @@ fun_fact:   Testing is not just finding bugs — it's ensuring quality 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=greenbeam&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF9800&currStreakLabel=58A6FF" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=greenbeam&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF9800&currStreakLabel=58A6FF" width="60%"/>
 
 </div>
 
